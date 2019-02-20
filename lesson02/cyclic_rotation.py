@@ -16,4 +16,4 @@ def solution(array, rotations):
  
  return newArray	
    
-print solution([3, 8, 9, 7, 6] , 3)
+print(solution([3, 8, 9, 7, 6] , 3))

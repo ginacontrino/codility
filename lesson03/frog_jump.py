@@ -7,5 +7,5 @@ def solution(initalPosition, goalPosition, jumpDistance):
  return math.ceil((goalPosition - initalPosition)/float(jumpDistance))
  
 
-print solution(3, 999111321, 7)
+print(solution(3, 999111321, 7))
 
